@@ -1,0 +1,19 @@
+{
+    "name": "system/rapiexpress",
+    "version": "1.0.0",  
+    "description": "Sistema de Getion de Paquetes",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "RapiExpress\\": "app/"
+        }
+    },
+"authors": [
+        {
+            "name": "Grupo UPTAEB"
+        }
+    ],
+    "require": {
+        "twbs/bootstrap": "^5.3"
+    }
+}
